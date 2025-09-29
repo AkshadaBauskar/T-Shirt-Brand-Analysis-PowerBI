@@ -31,6 +31,8 @@ This dashboard provides a detailed analysis of men’s T-shirt sales data by int
   Cost Price = DIVIDE(100* 'MenTshirt'[Sales Price], 100+'MenTshirt'[Profit Percentage(%)])
 All numerical columns were converted to decimal for consistency in mathematical operations.
 
+![Step 5](./images/step5.png)
+
 **Step 6:** Page 1 of the report focused on a *Brands Overview*. A branded image and custom hex color were applied as the background, while the filter pane was removed to maintain a clean layout. A Multi-Row Card visual was added to display all available brands in bold white text with a scrolling feature, under the header *Available Brands*.  
 
 **Step 7:** Page 2 of the report presented detailed brand insights. A stacked bar chart was created to showcase the *Top Five Brands by Average Discount Percentage*, with conditional formatting, bold labels, and a Top N filter.  
@@ -49,7 +51,7 @@ A pie chart highlighted the *Bottom Five Brands by Average Profit Percentage*, w
 
  
 ![Dashboard Page 1](./images/Dashboard_page_1.png)
-![Dashboard Page 2](./images/Dashboard_Page_2.png)
+![Dashboard Page 2](./images/Dashboard_page_2.png)
 
 ## Key Insights  
 
