@@ -51,7 +51,8 @@ A pie chart highlighted the *Bottom Five Brands by Average Profit Percentage*, w
 
  
 ![Dashboard Page 1](./images/Dashboard_page_1.png)
-![Dashboard Page 2](./images/Dashboard_page_2.png)
+
+![Dashboard Page 2](./images/Dasboard_page_2.png)
 
 ## Key Insights  
 
