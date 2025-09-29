@@ -1,0 +1,22 @@
+# Dataset Metadata
+
+This file contains all the meta information regarding the columns described in the`Men+Tshirt.csv` CSV files.
+
+## Column Description:
+
+1. Brand 
+   Represents the brand/manufacturer of the men’s apparel item.    
+   Examples: “The Indian Garage Co”, “U.S. Polo Assn.”, “ARMANI EXCHANGE”.
+
+2. Title  
+   Descriptive product title as listed on the marketplace/catalog. Often includes fit, pattern, collar, and pocket details.   
+   Examples: “Men Striped Slim Fit Shirt with Patch Pocket”, “Checked Shirt with Spread Collar”.
+
+3. Original Price
+   Listed MRP before discounts. Values are recorded as strings including the currency symbol and thousand separators.  
+   Examples: `₹1,749`, `₹2,495`, `NA`.
+
+4. Sale Price
+   Final selling price after discounts. Values are recorded as strings including the currency symbol and thousand separators.  
+   Examples: `₹525`, `₹873`, `NA`.
+
