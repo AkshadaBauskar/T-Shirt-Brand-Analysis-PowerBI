@@ -1,4 +1,4 @@
-# T-Shirt Brand Analysis Dashboard
+# T-Shirt Brand Analysis Dashboard (Datasource: Azure SQL database)
 
 ### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=8e9d66c5-cf67-4b4d-aa88-ea591a608cff&autoAuth=true&ctid=4190cc35-fd93-4aa6-9817-c1121132f7e2
 
